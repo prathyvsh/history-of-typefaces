@@ -23,3 +23,5 @@
 * Lyrical Modernist
 
 * Post Modernist
+
+** [[https://en.wikipedia.org/wiki/Ransom_note_effect][Ransom Note Effect]]
